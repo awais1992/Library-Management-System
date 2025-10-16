@@ -1,0 +1,8 @@
+98,Rich Dad Poor Dad,Robert Kiyosaki,borrowed
+01,Wild Dark Shore: A Novel, Charlotte McConaghy,available
+02,King of Ashes: A Novel,S. A. Cosby,available
+3,No More Tears: The Dark Secrets of Johnson & Johnson,Gardiner Harris,available
+04,The Emperor of Gladness: Oprah's Book Club: A Novel,Ocean Vuong,borrowed
+05,Sunrise on the Reaping (The Hunger Games),Suzanne Collins,available
+06, What She Saw, Mary Burton,borrowed
+07,The Secret of Secrets: A Novel (Robert Langdon Book 6),Dan Brown,available
